@@ -32,3 +32,30 @@ The analysis was carried out in three parts
 - Probability
 - A/B Test
 - Regression
+
+#### Probability
+In this part, the `ab_data.csv` was cleaned. After cleaning some probabilities were calculated. The probabilities calculated include:
+- Probability of a user being in either of the groups (control or treatment).
+- Probability that a user converted regardless of their landing page.
+- Probability that a user converted when in either group.
+
+#### A/B Test.
+The A/B test section was where the null and alternative hypothesis was stated, other things like
+- The probability of conversion under the null, P_new.
+- Simulation of n-transactions with a conversion rate of P_new.
+- The p-value
+were calculated. The decision whether to reject or fail to reject the hypothesis was decided.
+
+#### Regression.
+In this part, a logistic regression approach was used to check for the p-value. Also in this section, countries from `country.csv` were added to the variable to decide if a user converted based on where users logged in from. 
+
+<a id='conclusions'></a>
+### Conclusions
+The conclusion reached based on the analysis was given stating why it was so.
+
+<a id='license'></a>
+### License
+This analysis is done under an [ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+### Contact
+For more details, you can [mail me](ola.ia1523@gmail.com).
