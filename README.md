@@ -58,4 +58,4 @@ The conclusion reached based on the analysis was given stating why it was so.
 This analysis is done under an [ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Contact
-For more details, you can [mail me](ola.ia1523@gmail.com).
+For more details, you can [mail me](mailto:ola.ia1523@gmail.com).
