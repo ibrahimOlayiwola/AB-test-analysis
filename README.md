@@ -7,6 +7,7 @@ This project aim to use regression analysis to analyze a AB test result from an 
 - [Analysis](#analysis)
 - [Conclusions](#conclusions)
 - [License](#license)
+- [Contact](#contact)
 
 <a id='intro'></a>
 ### Introduction
@@ -57,5 +58,6 @@ The conclusion reached based on the analysis was given stating why it was so.
 ### License
 This analysis is done under an [ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+<a id='contact'></a>
 ### Contact
 For more details, you can [mail me](mailto:ola.ia1523@gmail.com).
